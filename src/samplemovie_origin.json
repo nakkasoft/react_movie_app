@@ -1,0 +1,756 @@
+{"status":"ok","status_message":"Query was successful","data":
+{"movie_count":10556,"limit":20,"page_number":1,"movies":[
+	{"id":10913,"url":"https:\/\/yts.am\/movie\/fantastic-beasts-the-crimes-of-grindelwald-2018","imdb_code":"tt4123430",
+	"title":"Fantastic Beasts: The Crimes of Grindelwald","title_english":"Fantastic Beasts: The Crimes of Grindelwald","title_long":"Fantastic Beasts: The Crimes of Grindelwald (2018)",
+	"slug":"fantastic-beasts-the-crimes-of-grindelwald-2018","year":2018,"rating":6.8,"runtime":134,"genres"
+:["Adventure","Family","Fantasy"],"summary":"In an effort to thwart Grindelwald's plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he's unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.","description_full":"In an effort to thwart Grindelwald's plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he's unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.","synopsis":"In an effort to thwart Grindelwald's plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he's unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+"yt_trailer_code":"5sEaYB4rLFQ","language":"English","mpa_rating":"PG-13","background_image":"https:\/\/yts.am\/assets\/images\/movies\/fantastic_beasts_the_crimes_of_grindelwald_2018\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/fantastic_beasts_the_crimes_of_grindelwald_2018\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/fantastic_beasts_the_crimes_of_grindelwald_2018\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/fantastic_beasts_the_crimes_of_grindelwald_2018\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/fantastic_beasts_the_crimes_of_grindelwald_2018\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/39C07BCB0CA3224476DE38078CB9BC15FDAACE51",
+"hash":"39C07BCB0CA3224476DE38078CB9BC15FDAACE51",
+"quality":"720p","type":"web","seeds":9047,"peers":9479,
+"size":"1.12 GB","size_bytes":1202590843,"date_uploaded":"2019-02-15 12:18:12",
+"date_uploaded_unix":1550229492},
+{"url":"https:\/\/yts.am\/torrent\/download\/426EC6D01964BAC82C0DA451B8E67842608FCC61","hash":"426EC6D01964BAC82C0DA451B8E67842608FCC61","quality":"1080p","type":"web","seeds":10443,"peers":11343,"size":"2.14GB","size_bytes":2297807503,"date_uploaded":"2019-02-15 14:45:35","date_uploaded_unix":1550238335}],"date_uploaded":"2019-02-15 12:18:12","date_uploaded_unix":1550229492}, {"id":10912,"url":"https:\/\/yts.am\/movie\/the-many-lives-of-nick-buoniconti-2019","imdb_code":"tt9377260","title":"The Many Lives of Nick Buoniconti","title_english":"The Many Lives of Nick Buoniconti","title_long":"The Many Lives of Nick Buoniconti (2019)","slug":"the-many-lives-of-nick-buoniconti-2019","year":2019,"rating":7.7,"runtime":74,"genres": ["Documentary"],"summary":"[HBO] HD. The remarkabletale of NFL Hall of Famer Nick Buoniconti, whose story encompasses turns as a linebacker, lawyer, sports agent, and more.","description_full":"[HBO] HD. The remarkable tale of NFL Hall of Famer Nick Buoniconti, whose story encompasses turns as a linebacker, lawyer, sports agent, and more.",
+	"synopsis":"[HBO] HD. The remarkable tale of NFL Hall of Famer Nick Buoniconti, whose story encompasses turns as a linebacker, lawyer, sports agent, and more.",
+"yt_trailer_code":"bfEPkL5MPKI","language":"English","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/the_many_lives_of_nick_buoniconti_2019\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/the_many_lives_of_nick_buoniconti_2019\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_many_lives_of_nick_buoniconti_2019\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_many_lives_of_nick_buoniconti_2019\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_many_lives_of_nick_buoniconti_2019\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/860C285AE6B001E37585B2378A8D6EDE56F6AE0E","hash":"860C285AE6B001E37585B2378A8D6EDE56F6AE0E","quality":"720p","type":"web","seeds":210,"peers":86,"size":"633.91MB",
+"size_bytes":664702812,"date_uploaded":"2019-02-15 06:03:33","date_uploaded_unix":1550207013},
+{"url":"https:\/\/yts.am\/torrent\/download\/640D8404D1BA4525E2577B3FE22B08758AF8610A",
+	"hash":"640D8404D1BA4525E2577B3FE22B08758AF8610A","quality":"1080p","type":"web","seeds":282,"peers":102,"size":"1.19GB",
+"size_bytes":1277752771,"date_uploaded":"2019-02-15 07:48:21","date_uploaded_unix":1550213301}],"date_uploaded":"2019-02-15 06:03:33",
+"date_uploaded_unix":1550207013},
+{"id":10911,"url":"https:\/\/yts.am\/movie\/on-your-wedding-day-2018","imdb_code":"tt7938092","title":"On Your Wedding Day",
+	"title_english":"On Your Wedding Day","title_long":"On Your Wedding Day (2018)","slug":"on-your-wedding-day-2018","year":2018,"rating":6.9,"runtime":110,
+	"genres":["Romance"],"summary":"The story of the man who receives a wedding invitation from his first love that he met in high school.",
+	"description_full":"The story of the man who receives a wedding invitation from his first love that he met in high school.",
+	"synopsis":"The story of the man who receives a wedding invitation from his first love that he met in high school.",
+	"yt_trailer_code":"L8s2c86_9cY","language":"English","mpa_rating":"",
+	"background_image":"https:\/\/yts.am\/assets\/images\/movies\/on_your_wedding_day_2018\/background.jpg",
+	"background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/on_your_wedding_day_2018\/background.jpg",
+	"small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/on_your_wedding_day_2018\/small-cover.jpg",
+	"medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/on_your_wedding_day_2018\/medium-cover.jpg",
+	"large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/on_your_wedding_day_2018\/large-cover.jpg",
+	"state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/DED3A825DD6188F087316A2B04061A660CB97F1B","hash":"DED3A825DD6188F087316A2B04061A660CB97F1B","quality":"720p","type":"bluray","seeds":721,"peers":477,"size":"937.27MB","size_bytes":982798828,"date_uploaded":"2019-02-15 02:47:06","date_uploaded_unix":1550195226},
+{"url":"https:\/\/yts.am\/torrent\/download\/40D92761A601193B48CFB6D5306DCBAE45229B81","hash":"40D92761A601193B48CFB6D5306DCBAE45229B81","quality":"1080p",
+"type":"bluray","seeds":523,"peers":302,"size":"1.76GB","size_bytes":1889785610,"date_uploaded":"2019-02-15 05:07:48","date_uploaded_unix":1550203668}],
+"date_uploaded":"2019-02-15 02:47:06","date_uploaded_unix":1550195226},
+
+{"id":10910,"url":"https:\/\/yts.am\/movie\/deviant-2017","imdb_code":"tt6458952","title":"Deviant","titl
+e_english":"Deviant","title_long":"Deviant
+(2017)","slug":"deviant-2017","year":2017,"rating":3.7,"runtime":88,"genres":
+["Drama"],"summary":"Jake, a young sex addict, finds
+his deviant mind turning on him as he continues his
+self-destruction through entertaining all of his
+darkest sexual fantasies and
+desires.","description_full":"Jake, a young sex
+addict, finds his deviant mind turning on him as he
+continues his self-destruction through entertaining
+all of his darkest sexual fantasies and
+desires.","synopsis":"Jake, a young sex addict, finds
+his deviant mind turning on him as he continues his
+self-destruction through entertaining all of his
+darkest sexual fantasies and
+desires.","yt_trailer_code":"","language":"English","
+mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/deviant_2017\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/deviant_2017\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/deviant_2017\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/deviant_2017\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/deviant_2017\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/BE5D876C17D88094994018B350C2D1636DE54A32","hash":"BE5
+D876C17D88094994018B350C2D1636DE54A32","quality":"720
+p","type":"web","seeds":443,"peers":209,"size":"729.0
+4 MB","size_bytes":764453847,"date_uploaded":"2019-02-14 23:50:40","date_uploaded_unix":1550184640},
+{"url":"https:\/\/yts.am\/torrent\/download\/5DB615EDD92B4A8E927AE7E3911A8FE9FC7440A9","hash":"5DB
+615EDD92B4A8E927AE7E3911A8FE9FC7440A9","quality":"108
+0p","type":"web","seeds":302,"peers":151,"size":"1.38
+GB","size_bytes":1481763717,"date_uploaded":"2019-02-15
+01:32:08","date_uploaded_unix":1550190728}],"date_upl
+oaded":"2019-02-14
+23:50:40","date_uploaded_unix":1550184640},
+{"id":10909,"url":"https:\/\/yts.am\/movie\/joe-kidd-1972","imdb_code":"tt0068768","title":"Joe
+Kidd","title_english":"Joe Kidd","title_long":"Joe
+Kidd (1972)","slug":"joe-kidd-1972","year":1972,"rating":6.5,"runtime":88,"genres":
+["Western"],"summary":"Joe Kidd is a former bounty
+hunter and all-around tough-guy in the American
+Southwest. When a band of Mexicans find their U. S.
+land claims denied and all relevant records destroyed
+in a courthouse fire, they turn to force of arms.
+Luis Chama is their charismatic leader, spouting
+revolutionary rhetoric and demanding land reform. A
+wealthy landowner with interests in the disputed
+area, Frank Harlan, decides to settle things his own
+way. He hires a band of killers and wants Joe Kidd to
+help them track Chama. Initially, Kidd wants to avoid
+any involvement, until Chama makes the mistake of
+stealing Kidd's horses and terrorizing his
+friends.","description_full":"Joe Kidd is a former
+bounty hunter and all-around tough-guy in the
+American Southwest. When a band of Mexicans find
+their U. S. land claims denied and all relevant
+records destroyed in a courthouse fire, they turn to
+force of arms. Luis Chama is their charismatic
+leader, spouting revolutionary rhetoric and demanding
+land reform. A wealthy landowner with interests in
+the disputed area, Frank Harlan, decides to settle
+things his own way. He hires a band of killers and
+wants Joe Kidd to help them track Chama. Initially,
+Kidd wants to avoid any involvement, until Chama
+makes the mistake of stealing Kidd's horses and
+terrorizing his friends.","synopsis":"Joe Kidd is a
+former bounty hunter and all-around tough-guy in the
+American Southwest. When a band of Mexicans find
+their U. S. land claims denied and all relevant
+records destroyed in a courthouse fire, they turn to
+force of arms. Luis Chama is their charismatic
+leader, spouting revolutionary rhetoric and demanding
+land reform. A wealthy landowner with interests in
+the disputed area, Frank Harlan, decides to settle
+things his own way. He hires a band of killers and
+wants Joe Kidd to help them track Chama. Initially,
+Kidd wants to avoid any involvement, until Chama
+makes the mistake of stealing Kidd's horses and
+terrorizing his
+friends.","yt_trailer_code":"0uaYrGXeBaI","language":
+"English","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/joe_kidd_1972\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/joe_kidd_1972\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/joe_kidd_1972\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/joe_kidd_1972\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/joe_kidd_1972\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/07F752ED38E3FDE4420CACEB341FF5DF16732E80","hash":"07F
+752ED38E3FDE4420CACEB341FF5DF16732E80","quality":"720
+p","type":"bluray","seeds":205,"peers":78,"size":"725
+.19 MB","size_bytes":760416829,"date_uploaded":"2019-02-14 17:18:30","date_uploaded_unix":1550161110},
+{"url":"https:\/\/yts.am\/torrent\/download\/F5DDA92121A5EBAAC7BB2D4FC895016EE794F354","hash":"F5D
+DA92121A5EBAAC7BB2D4FC895016EE794F354","quality":"108
+0p","type":"bluray","seeds":245,"peers":108,"size":"1
+.38
+GB","size_bytes":1481763717,"date_uploaded":"2019-02-14
+19:15:18","date_uploaded_unix":1550168118}],"date_upl
+oaded":"2019-02-14
+17:18:30","date_uploaded_unix":1550161110},
+{"id":10908,"url":"https:\/\/yts.am\/movie\/the-forbidden-photos-of-a-lady-above-suspicion-1970","imdb_code":"tt0065677","title":"The Forbidden
+Photos of a Lady Above
+Suspicion","title_english":"The Forbidden Photos of a
+Lady Above Suspicion","title_long":"The Forbidden
+Photos of a Lady Above Suspicion (1970)","slug":"the-forbidden-photos-of-a-lady-above-suspicion-1970","year":1970,"rating":6.3,"runtime":93,"genres":
+["Mystery","Thriller"],"summary":"A triangle of
+friendship, love, sex, and, perhaps, murder. Minou is
+newly married to Peter, a businessman in debt as he
+works to bring a new product to market. They met
+through Dominique, sexually voracious, Minou's best
+friend, and Peter's former (and possibly still)
+lover. A stranger accosts Minou one night on the
+beach while Peter is away. He tells her that Peter
+has murdered a business associate and blackmails her
+into sleeping with him. He compounds the blackmail
+with photos taken of their tryst. To Minou's
+surprise, this same stranger is in a pornographic
+photo Dominique has imported from Denmark. Is this
+all a game, and if so, who's behind
+it?","description_full":"A triangle of friendship,
+love, sex, and, perhaps, murder. Minou is newly
+married to Peter, a businessman in debt as he works
+to bring a new product to market. They met through
+Dominique, sexually voracious, Minou's best friend,
+and Peter's former (and possibly still) lover. A
+stranger accosts Minou one night on the beach while
+Peter is away. He tells her that Peter has murdered a
+business associate and blackmails her into sleeping
+with him. He compounds the blackmail with photos
+taken of their tryst. To Minou's surprise, this same
+stranger is in a pornographic photo Dominique has
+imported from Denmark. Is this all a game, and if so,
+who's behind it?","synopsis":"A triangle of
+friendship, love, sex, and, perhaps, murder. Minou is
+newly married to Peter, a businessman in debt as he
+works to bring a new product to market. They met
+through Dominique, sexually voracious, Minou's best
+friend, and Peter's former (and possibly still)
+lover. A stranger accosts Minou one night on the
+beach while Peter is away. He tells her that Peter
+has murdered a business associate and blackmails her
+into sleeping with him. He compounds the blackmail
+with photos taken of their tryst. To Minou's
+surprise, this same stranger is in a pornographic
+photo Dominique has imported from Denmark. Is this
+all a game, and if so, who's behind
+it?","yt_trailer_code":"PCpcX3qTgIw","language":"Engl
+ish","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/the_forbidden_photos_of_a_lady_above_suspicion_1970\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/the_forbidden_photos_of_a_lady_above_suspicion_1970\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_forbidden_photos_of_a_lady_above_suspicion_1970\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_forbidden_photos_of_a_lady_above_suspicion_1970\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_forbidden_photos_of_a_lady_above_suspicion_1970\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/17495A8C9020265B930AA13951D9CC87E381D114","hash":"174
+95A8C9020265B930AA13951D9CC87E381D114","quality":"720
+p","type":"bluray","seeds":157,"peers":80,"size":"784
+.61 MB","size_bytes":822723215,"date_uploaded":"2019-02-15 13:04:30","date_uploaded_unix":1550232270},
+{"url":"https:\/\/yts.am\/torrent\/download\/7B8D10EA47DA680A748638ED4848CCB2ACC1C763","hash":"7B8
+D10EA47DA680A748638ED4848CCB2ACC1C763","quality":"108
+0p","type":"bluray","seeds":193,"peers":94,"size":"1.
+5 GB","size_bytes":1610612736,"date_uploaded":"2019-02-15
+14:45:38","date_uploaded_unix":1550238338}],"date_upl
+oaded":"2019-02-15
+13:04:30","date_uploaded_unix":1550232270},
+{"id":10907,"url":"https:\/\/yts.am\/movie\/discarnate-2018","imdb_code":"tt4685940","title":"Discarnate","t
+itle_english":"Discarnate","title_long":"Discarnate
+(2018)","slug":"discarnate-2018","year":2018,"rating":4.4,"runtime":84,"genres":
+["Horror","Thriller"],"summary":"A neuroscientist's
+obsession with a drug that expands the human mind
+inadvertently unleashes a deadly supernatural force
+on his team.","description_full":"A neuroscientist's
+obsession with a drug that expands the human mind
+inadvertently unleashes a deadly supernatural force
+on his team.","synopsis":"A neuroscientist's
+obsession with a drug that expands the human mind
+inadvertently unleashes a deadly supernatural force
+on his
+team.","yt_trailer_code":"Vb7f8oHrH9o","language":"En
+glish","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/discarnate_2018\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/discarnate_2018\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/discarnate_2018\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/discarnate_2018\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/discarnate_2018\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/936DB9730A8DE0D6B46AD6905F543577F504C1D3","hash":"936
+DB9730A8DE0D6B46AD6905F543577F504C1D3","quality":"720
+p","type":"bluray","seeds":524,"peers":360,"size":"74
+5.62
+MB","size_bytes":781839237,"date_uploaded":"2019-02-15 10:44:14","date_uploaded_unix":1550223854},
+{"url":"https:\/\/yts.am\/torrent\/download\/C49597600546E2665094E645A1EB56A76F4118BB","hash":"C49
+597600546E2665094E645A1EB56A76F4118BB","quality":"108
+0p","type":"bluray","seeds":423,"peers":298,"size":"1
+.4 GB","size_bytes":1503238554,"date_uploaded":"2019-02-15
+12:12:24","date_uploaded_unix":1550229144}],"date_upl
+oaded":"2019-02-15
+10:44:14","date_uploaded_unix":1550223854},
+{"id":10906,"url":"https:\/\/yts.am\/movie\/clergy-2018","imdb_code":"tt8738964","title":"Clergy","title
+_english":"Clergy","title_long":"Clergy
+(2018)","slug":"clergy-2018","year":2018,"rating":7.6,"runtime":0,"genres":
+["Comedy","Drama"],"summary":"A few years ago, tragic
+events combined the fate of three Catholic priests.
+Now, on every anniversary of the catastrophe that
+they miraculously escaped with their lives, the
+clergymen meet to celebrate the fact of their
+survival. Their everyday lives are, however, very
+different. Lisowski (Jacek Braciak) is an
+entrepreneurial curia worker in a big city who dreams
+of moving to the Vatican. The problem is that
+Archbishop Mordowicz (Janusz Gajos) is standing in
+his way, a luxurious dignitary who uses political
+influence to build the largest sanctuary in Poland.
+The second of the priests, Trybus (Robert
+Wieckiewicz), unlike Lisowski, is a rural pastor.
+Serving in a place full of poverty, he increasingly
+succumbs to human weaknesses. Kukula (Arkadiusz
+Jakubik) is also not very successful, and - despite
+his fervent faith - actually loses the trust of his
+parishioners day by day. Soon the stories of the
+three clergymen merge once again, and the events that
+will take place will have an
+impact...","description_full":"A few years ago,
+tragic events combined the fate of three Catholic
+priests. Now, on every anniversary of the catastrophe
+that they miraculously escaped with their lives, the
+clergymen meet to celebrate the fact of their
+survival. Their everyday lives are, however, very
+different. Lisowski (Jacek Braciak) is an
+entrepreneurial curia worker in a big city who dreams
+of moving to the Vatican. The problem is that
+Archbishop Mordowicz (Janusz Gajos) is standing in
+his way, a luxurious dignitary who uses political
+influence to build the largest sanctuary in Poland.
+The second of the priests, Trybus (Robert
+Wieckiewicz), unlike Lisowski, is a rural pastor.
+Serving in a place full of poverty, he increasingly
+succumbs to human weaknesses. Kukula (Arkadiusz
+Jakubik) is also not very successful, and - despite
+his fervent faith - actually loses the trust of his
+parishioners day by day. Soon the stories of the
+three clergymen merge once again, and the events that
+will take place will have an impact...","synopsis":"A
+few years ago, tragic events combined the fate of
+three Catholic priests. Now, on every anniversary of
+the catastrophe that they miraculously escaped with
+their lives, the clergymen meet to celebrate the fact
+of their survival. Their everyday lives are, however,
+very different. Lisowski (Jacek Braciak) is an
+entrepreneurial curia worker in a big city who dreams
+of moving to the Vatican. The problem is that
+Archbishop Mordowicz (Janusz Gajos) is standing in
+his way, a luxurious dignitary who uses political
+influence to build the largest sanctuary in Poland.
+The second of the priests, Trybus (Robert
+Wieckiewicz), unlike Lisowski, is a rural pastor.
+Serving in a place full of poverty, he increasingly
+succumbs to human weaknesses. Kukula (Arkadiusz
+Jakubik) is also not very successful, and - despite
+his fervent faith - actually loses the trust of his
+parishioners day by day. Soon the stories of the
+three clergymen merge once again, and the events that
+will take place will have an
+impact...","yt_trailer_code":"Qo6F19tC59o","language"
+:"English","mpa_rating":"","background_image":"https:
+\/\/yts.am\/assets\/images\/movies\/clergy_2018\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/clergy_2018\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/clergy_2018\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/clergy_2018\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/clergy_2018\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/8DD3EE04600C81BC7617D3322CC76FFDA6CF48D8","hash":"8DD
+3EE04600C81BC7617D3322CC76FFDA6CF48D8","quality":"720
+p","type":"bluray","seeds":302,"peers":162,"size":"1.
+11 GB","size_bytes":1191853425,"date_uploaded":"2019-02-15 07:50:36","date_uploaded_unix":1550213436},
+{"url":"https:\/\/yts.am\/torrent\/download\/2559ED1308D32390BE65E7F22CA97974E69B49C7","hash":"255
+9ED1308D32390BE65E7F22CA97974E69B49C7","quality":"108
+0p","type":"bluray","seeds":388,"peers":185,"size":"2
+.15
+GB","size_bytes":2308544922,"date_uploaded":"2019-02-15
+09:58:12","date_uploaded_unix":1550221092}],"date_upl
+oaded":"2019-02-15
+07:50:36","date_uploaded_unix":1550213436},
+{"id":10905,"url":"https:\/\/yts.am\/movie\/you-got-served-2004","imdb_code":"tt0365957","title":"You Got
+Served","title_english":"You Got
+Served","title_long":"You Got Served
+(2004)","slug":"you-got-served-2004","year":2004,"rating":3.6,"runtime":95,"genres":
+["Drama","Music"],"summary":"YOU GOT SERVED follows
+the competitive world of street dancing where crews
+battle each other for money and respect. Elgin and
+David are best friends and leaders of the best dance
+crew in the area. When another town's top group
+challenges them to a battle, David and Elgin, along
+with their buddies, must create and perfect the most
+cutting edge moves in order to remain on top. The
+stakes are raised as friends double-cross each other
+and true motives are revealed. When the biggest
+battle comes to town, David and Elgin must work past
+their differences to prove that they are still the
+best crew on the streets.","description_full":"YOU
+GOT SERVED follows the competitive world of street
+dancing where crews battle each other for money and
+respect. Elgin and David are best friends and leaders
+of the best dance crew in the area. When another
+town's top group challenges them to a battle, David
+and Elgin, along with their buddies, must create and
+perfect the most cutting edge moves in order to
+remain on top. The stakes are raised as friends
+double-cross each other and true motives are
+revealed. When the biggest battle comes to town,
+David and Elgin must work past their differences to
+prove that they are still the best crew on the
+streets.","synopsis":"YOU GOT SERVED follows the
+competitive world of street dancing where crews
+battle each other for money and respect. Elgin and
+David are best friends and leaders of the best dance
+crew in the area. When another town's top group
+challenges them to a battle, David and Elgin, along
+with their buddies, must create and perfect the most
+cutting edge moves in order to remain on top. The
+stakes are raised as friends double-cross each other
+and true motives are revealed. When the biggest
+battle comes to town, David and Elgin must work past
+their differences to prove that they are still the
+best crew on the
+streets.","yt_trailer_code":"fx1HkUovMI8","language":
+"English","mpa_rating":"PG-13","background_image":"https:\/\/yts.am\/assets\/images\/movies\/you_got_served_2004\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/you_got_served_2004\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/you_got_served_2004\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/you_got_served_2004\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/you_got_served_2004\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/BE435E41568693F3599B6DC78DC25033F3CC2B15","hash":"BE4
+35E41568693F3599B6DC78DC25033F3CC2B15","quality":"720
+p","type":"bluray","seeds":228,"peers":130,"size":"78
+8.62
+MB","size_bytes":826928005,"date_uploaded":"2019-02-15 04:50:45","date_uploaded_unix":1550202645},
+{"url":"https:\/\/yts.am\/torrent\/download\/88492269DC615374FA5B94EC46A12C9C3159362D","hash":"884
+92269DC615374FA5B94EC46A12C9C3159362D","quality":"108
+0p","type":"bluray","seeds":256,"peers":167,"size":"1
+.5 GB","size_bytes":1610612736,"date_uploaded":"2019-02-15
+06:44:19","date_uploaded_unix":1550209459}],"date_upl
+oaded":"2019-02-15
+04:50:45","date_uploaded_unix":1550202645},
+{"id":10904,"url":"https:\/\/yts.am\/movie\/yoko-2012","imdb_code":"tt1919207","title":"Yoko","title_e
+nglish":"Yoko","title_long":"Yoko
+(2012)","slug":"yoko-2012","year":2012,"rating":4.7,"runtime":0,"genres":
+["Adventure","Comedy","Family","Fantasy"],"summary":"
+","description_full":"","synopsis":"","yt_trailer_cod
+e":"kKk6_nrTyeo","language":"English","mpa_rating":""
+,"background_image":"https:\/\/yts.am\/assets\/images\/movies\/yoko_2012\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/yoko_2012\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/yoko_2012\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/yoko_2012\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/yoko_2012\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/D0F2DE8BAF073E6EA9DBE35B79E74680D0B26DDF","hash":"D0F
+2DE8BAF073E6EA9DBE35B79E74680D0B26DDF","quality":"720
+p","type":"bluray","seeds":205,"peers":87,"size":"845
+.6 MB","size_bytes":886675866,"date_uploaded":"2019-02-15 01:57:37","date_uploaded_unix":1550192257},
+{"url":"https:\/\/yts.am\/torrent\/download\/7847F0EA554ACB991F8EAC8C4B318886A9C9F1F6","hash":"784
+7F0EA554ACB991F8EAC8C4B318886A9C9F1F6","quality":"108
+0p","type":"bluray","seeds":193,"peers":105,"size":"1
+.58
+GB","size_bytes":1696512082,"date_uploaded":"2019-02-15
+03:51:20","date_uploaded_unix":1550199080}],"date_upl
+oaded":"2019-02-15
+01:57:37","date_uploaded_unix":1550192257},
+{"id":10903,"url":"https:\/\/yts.am\/movie\/the-axiom-2018","imdb_code":"tt6051096","title":"The
+Axiom","title_english":"The Axiom","title_long":"The
+Axiom (2018)","slug":"the-axiom-2018","year":2018,"rating":5,"runtime":98,"genres":
+["Horror"],"summary":"At the risk of her group's
+safety, a young woman travels into a National Forest
+where her sister has become trapped in a multi-dimensional world of
+monsters.","description_full":"At the risk of her
+group's safety, a young woman travels into a National
+Forest where her sister has become trapped in a
+multi-dimensional world of monsters.","synopsis":"At
+the risk of her group's safety, a young woman travels
+into a National Forest where her sister has become
+trapped in a multi-dimensional world of
+monsters.","yt_trailer_code":"","language":"English",
+"mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/the_axiom_2018\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/the_axiom_2018\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_axiom_2018\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_axiom_2018\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_axiom_2018\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/4A1F1AE33A75F6372914C71BBEBEDE36CBF6B0C1","hash":"4A1
+F1AE33A75F6372914C71BBEBEDE36CBF6B0C1","quality":"720
+p","type":"web","seeds":524,"peers":414,"size":"843.7
+5 MB","size_bytes":884736000,"date_uploaded":"2019-02-14 23:30:12","date_uploaded_unix":1550183412},
+{"url":"https:\/\/yts.am\/torrent\/download\/1C94953BA9B9218FE92332436F7DDE16BC0E0608","hash":"1C9
+4953BA9B9218FE92332436F7DDE16BC0E0608","quality":"108
+0p","type":"web","seeds":402,"peers":230,"size":"1.58
+GB","size_bytes":1696512082,"date_uploaded":"2019-02-15
+00:58:57","date_uploaded_unix":1550188737}],"date_upl
+oaded":"2019-02-14
+23:30:12","date_uploaded_unix":1550183412},
+{"id":10902,"url":"https:\/\/yts.am\/movie\/awaiting-2015","imdb_code":"tt3815430","title":"Awaiting","tit
+le_english":"Awaiting","title_long":"Awaiting
+(2015)","slug":"awaiting-2015","year":2015,"rating":4.8,"runtime":95,"genres":
+["Drama","Horror","Thriller"],"summary":"Morris is a
+recluse with psychotic tendencies, whose life changes
+when his innocent daughter Lauren rescues one of his
+victims and befriends him. Jake, an ordinary
+businessman, soon realises that he is stranded and
+his presence in the house gradually reveals
+unexpected and dark mysteries from the
+past.","description_full":"Morris is a recluse with
+psychotic tendencies, whose life changes when his
+innocent daughter Lauren rescues one of his victims
+and befriends him. Jake, an ordinary businessman,
+soon realises that he is stranded and his presence in
+the house gradually reveals unexpected and dark
+mysteries from the past.","synopsis":"Morris is a
+recluse with psychotic tendencies, whose life changes
+when his innocent daughter Lauren rescues one of his
+victims and befriends him. Jake, an ordinary
+businessman, soon realises that he is stranded and
+his presence in the house gradually reveals
+unexpected and dark mysteries from the
+past.","yt_trailer_code":"KZ9pYnp1RVw","language":"En
+glish","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/awaiting_2015\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/awaiting_2015\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/awaiting_2015\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/awaiting_2015\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/awaiting_2015\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/CD44623FDC7C173BBFF52FCE42FDD42D50620861","hash":"CD4
+4623FDC7C173BBFF52FCE42FDD42D50620861","quality":"720
+p","type":"bluray","seeds":105,"peers":45,"size":"775
+.08 MB","size_bytes":812730286,"date_uploaded":"2019-02-14 05:18:13","date_uploaded_unix":1550117893},
+{"url":"https:\/\/yts.am\/torrent\/download\/3F68E05D984690AF96697FD3007C8F82877445AF","hash":"3F6
+8E05D984690AF96697FD3007C8F82877445AF","quality":"108
+0p","type":"bluray","seeds":90,"peers":43,"size":"1.4
+5 GB","size_bytes":1556925645,"date_uploaded":"2019-02-14
+06:46:10","date_uploaded_unix":1550123170}],"date_upl
+oaded":"2019-02-14
+05:18:13","date_uploaded_unix":1550117893},
+{"id":10901,"url":"https:\/\/yts.am\/movie\/asphaltgorillas-2018","imdb_code":"tt6175802","title":"Asphaltgorilla
+s","title_english":"Asphaltgorillas","title_long":"As
+phaltgorillas (2018)","slug":"asphaltgorillas-2018","year":2018,"rating":5.8,"runtime":103,"genres"
+:
+["Action","Comedy","Crime","Drama"],"summary":"","des
+cription_full":"","synopsis":"","yt_trailer_code":"SH
+7rX3TGLT8","language":"English","mpa_rating":"","back
+ground_image":"https:\/\/yts.am\/assets\/images\/movies\/asphaltgorillas_2018\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/asphaltgorillas_2018\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/asphaltgorillas_2018\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/asphaltgorillas_2018\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/asphaltgorillas_2018\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/69CE7C30E40E65A1F2062282714806968537DC59","hash":"69C
+E7C30E40E65A1F2062282714806968537DC59","quality":"720
+p","type":"bluray","seeds":328,"peers":124,"size":"89
+0.56
+MB","size_bytes":933819843,"date_uploaded":"2019-02-14 02:36:59","date_uploaded_unix":1550108219},
+{"url":"https:\/\/yts.am\/torrent\/download\/F41F6C3127583202A083119B6DE4ABC85856363D","hash":"F41
+F6C3127583202A083119B6DE4ABC85856363D","quality":"108
+0p","type":"bluray","seeds":223,"peers":97,"size":"1.
+66 GB","size_bytes":1782411428,"date_uploaded":"2019-02-14
+04:29:25","date_uploaded_unix":1550114965}],"date_upl
+oaded":"2019-02-14
+02:36:59","date_uploaded_unix":1550108219},
+{"id":10900,"url":"https:\/\/yts.am\/movie\/hell-of-the-living-dead-1980","imdb_code":"tt0082559","title":"Hell of the
+Living Dead","title_english":"Hell of the Living
+Dead","title_long":"Hell of the Living Dead
+(1980)","slug":"hell-of-the-living-dead-1980","year":1980,"rating":5,"runtime":99,"genres":
+["Horror","Sci-Fi","Thriller"],"summary":"After a
+chemical leak at the Hope Centre in Papua New Guinea
+(an organization devoted to feeding underdeveloped
+countries) turns its staff into flesh-eating zombies,
+a four-man commando squad led by Mike London are sent
+to investigate. They run into a TV news crew led by
+celebrity reporter Lia, who are after the same story,
+but when they discover that the entire country has
+been overrun by zombies, what are the chances of them
+getting the message across? Unlike most zombie films,
+this actually tries to make a serious point - that if
+we don't feed the Third World, they'll come and feed
+on us!","description_full":"After a chemical leak at
+the Hope Centre in Papua New Guinea (an organization
+devoted to feeding underdeveloped countries) turns
+its staff into flesh-eating zombies, a four-man
+commando squad led by Mike London are sent to
+investigate. They run into a TV news crew led by
+celebrity reporter Lia, who are after the same story,
+but when they discover that the entire country has
+been overrun by zombies, what are the chances of them
+getting the message across? Unlike most zombie films,
+this actually tries to make a serious point - that if
+we don't feed the Third World, they'll come and feed
+on us!","synopsis":"After a chemical leak at the Hope
+Centre in Papua New Guinea (an organization devoted
+to feeding underdeveloped countries) turns its staff
+into flesh-eating zombies, a four-man commando squad
+led by Mike London are sent to investigate. They run
+into a TV news crew led by celebrity reporter Lia,
+who are after the same story, but when they discover
+that the entire country has been overrun by zombies,
+what are the chances of them getting the message
+across? Unlike most zombie films, this actually tries
+to make a serious point - that if we don't feed the
+Third World, they'll come and feed on
+us!","yt_trailer_code":"6RUCuLnsLeA","language":"Engl
+ish","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/hell_of_the_living_dead_1980\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/hell_of_the_living_dead_1980\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/hell_of_the_living_dead_1980\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/hell_of_the_living_dead_1980\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/hell_of_the_living_dead_1980\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/52BC0918E47C1D2E904A87F80D56DD27B113D734","hash":"52B
+C0918E47C1D2E904A87F80D56DD27B113D734","quality":"720
+p","type":"bluray","seeds":80,"peers":26,"size":"809.
+74 MB","size_bytes":849073930,"date_uploaded":"2019-02-14 18:14:00","date_uploaded_unix":1550164440},
+{"url":"https:\/\/yts.am\/torrent\/download\/354E4DAC5B6FBC8A85E1E781CBE4C54C424668DE","hash":"354
+E4DAC5B6FBC8A85E1E781CBE4C54C424668DE","quality":"108
+0p","type":"bluray","seeds":97,"peers":31,"size":"1.5
+5 GB","size_bytes":1664299827,"date_uploaded":"2019-02-14
+20:24:32","date_uploaded_unix":1550172272}],"date_upl
+oaded":"2019-02-14
+18:14:00","date_uploaded_unix":1550164440},
+{"id":10899,"url":"https:\/\/yts.am\/movie\/planet-hulk-2010","imdb_code":"tt1483025","title":"Planet
+Hulk","title_english":"Planet
+Hulk","title_long":"Planet Hulk
+(2010)","slug":"planet-hulk-2010","year":2010,"rating":6.8,"runtime":0,"genres":
+["Action","Adventure","Animation","Drama","Sci-Fi"],"summary":"Tired of dealing with the Hulk, Iron
+Man and his compatriots send the creature to an
+uninhabited planet, only for him to divert it to a
+savage populated one. Once there, the Hulk is
+enslaved as a gladiator for an evil ruler's games
+where no one expects him to survive. However, the
+Hulk's might proves everyone wrong to the point where
+some suspect he is the prophesied deliverer of that
+world. Although the Hulk does not care about such
+things, he still finds himself being a catalyst that
+could change the fate of the
+world.","description_full":"Tired of dealing with the
+Hulk, Iron Man and his compatriots send the creature
+to an uninhabited planet, only for him to divert it
+to a savage populated one. Once there, the Hulk is
+enslaved as a gladiator for an evil ruler's games
+where no one expects him to survive. However, the
+Hulk's might proves everyone wrong to the point where
+some suspect he is the prophesied deliverer of that
+world. Although the Hulk does not care about such
+things, he still finds himself being a catalyst that
+could change the fate of the
+world.","synopsis":"Tired of dealing with the Hulk,
+Iron Man and his compatriots send the creature to an
+uninhabited planet, only for him to divert it to a
+savage populated one. Once there, the Hulk is
+enslaved as a gladiator for an evil ruler's games
+where no one expects him to survive. However, the
+Hulk's might proves everyone wrong to the point where
+some suspect he is the prophesied deliverer of that
+world. Although the Hulk does not care about such
+things, he still finds himself being a catalyst that
+could change the fate of the
+world.","yt_trailer_code":"","language":"English","mp
+a_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/planet_hulk_2010\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/planet_hulk_2010\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/planet_hulk_2010\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/planet_hulk_2010\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/planet_hulk_2010\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/332F90035AE9E4ADADEDD08426E9A8D431360EBC","hash":"332
+F90035AE9E4ADADEDD08426E9A8D431360EBC","quality":"720
+p","type":"bluray","seeds":763,"peers":189,"size":"70
+0.37
+MB","size_bytes":734391173,"date_uploaded":"2019-02-14 15:41:26","date_uploaded_unix":1550155286},
+{"url":"https:\/\/yts.am\/torrent\/download\/2F12232B9C3DCD813067F2407253A8A9B66ADFA9","hash":"2F1
+2232B9C3DCD813067F2407253A8A9B66ADFA9","quality":"108
+0p","type":"bluray","seeds":511,"peers":160,"size":"1
+.31
+GB","size_bytes":1406601789,"date_uploaded":"2019-02-14
+17:07:35","date_uploaded_unix":1550160455}],"date_upl
+oaded":"2019-02-14
+15:41:26","date_uploaded_unix":1550155286},
+{"id":10898,"url":"https:\/\/yts.am\/movie\/ladyhawke-1985","imdb_code":"tt0089457","title":"Ladyhawke","ti
+tle_english":"Ladyhawke","title_long":"Ladyhawke
+(1985)","slug":"ladyhawke-1985","year":1985,"rating":7,"runtime":121,"genres":
+["Adventure","Comedy","Drama","Fantasy"],"summary":"P
+hilipe Gastone, a thief, escapes from the dungeon at
+Aquila, sparking a manhunt. He is nearly captured
+when Captain Navarre befriends him. Navarre has been
+hunted by the Bishop's men for two years, ever since
+he escaped with the Lady Isabeau who the Bishop has
+lusted after. Navarre and Isabeau have a curse that
+the Bishop has placed on them that causes Navarre to
+be a wolf during the night and Isabeau to be a hawk
+during the day. Navarre insists that Philipe help him
+re-enter the city to help him kill the heavily
+guarded Bishop.","description_full":"Philipe Gastone,
+a thief, escapes from the dungeon at Aquila, sparking
+a manhunt. He is nearly captured when Captain Navarre
+befriends him. Navarre has been hunted by the
+Bishop's men for two years, ever since he escaped
+with the Lady Isabeau who the Bishop has lusted
+after. Navarre and Isabeau have a curse that the
+Bishop has placed on them that causes Navarre to be a
+wolf during the night and Isabeau to be a hawk during
+the day. Navarre insists that Philipe help him re-enter the city to help him kill the heavily guarded
+Bishop.","synopsis":"Philipe Gastone, a thief,
+escapes from the dungeon at Aquila, sparking a
+manhunt. He is nearly captured when Captain Navarre
+befriends him. Navarre has been hunted by the
+Bishop's men for two years, ever since he escaped
+with the Lady Isabeau who the Bishop has lusted
+after. Navarre and Isabeau have a curse that the
+Bishop has placed on them that causes Navarre to be a
+wolf during the night and Isabeau to be a hawk during
+the day. Navarre insists that Philipe help him re-enter the city to help him kill the heavily guarded
+Bishop.","yt_trailer_code":"b0BTs66JAgM","language":"
+English","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/ladyhawke_1985\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/ladyhawke_1985\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/ladyhawke_1985\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/ladyhawke_1985\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/ladyhawke_1985\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/A0507B9657E8B6EA65A06AC86DB84D7CC4BB4B6A","hash":"A05
+07B9657E8B6EA65A06AC86DB84D7CC4BB4B6A","quality":"720
+p","type":"bluray","seeds":252,"peers":88,"size":"101
+9.24
+MB","size_bytes":1068750602,"date_uploaded":"2019-02-14 12:42:26","date_uploaded_unix":1550144546},
+{"url":"https:\/\/yts.am\/torrent\/download\/126F9D4ADC55787714AD32E78AB83DC6DB2EB33B","hash":"126
+F9D4ADC55787714AD32E78AB83DC6DB2EB33B","quality":"108
+0p","type":"bluray","seeds":345,"peers":129,"size":"1
+.92
+GB","size_bytes":2061584302,"date_uploaded":"2019-02-14
+14:55:38","date_uploaded_unix":1550152538}],"date_upl
+oaded":"2019-02-14
+12:42:26","date_uploaded_unix":1550144546},
+{"id":10897,"url":"https:\/\/yts.am\/movie\/the-violent-men-1955","imdb_code":"tt0048789","title":"The Violent
+Men","title_english":"The Violent
+Men","title_long":"The Violent Men
+(1955)","slug":"the-violent-men-1955","year":1955,"rating":7,"runtime":96,"genres":
+["Western"],"summary":"A Union ex-officer plans to
+sell up to Anchor Ranch and move east with his
+fiancee, but the low price offered by Anchor's
+crippled owner and the outfit's bully-boy tactics
+make him think again. When one of his hands is
+murdered he decides to stay and fight, utilising his
+war experience. Not all is well at Anchor with the
+owner's wife carrying on with his brother who anyway
+has a Mexican moll in town.","description_full":"A
+Union ex-officer plans to sell up to Anchor Ranch and
+move east with his fiancee, but the low price offered
+by Anchor's crippled owner and the outfit's bully-boy
+tactics make him think again. When one of his hands
+is murdered he decides to stay and fight, utilising
+his war experience. Not all is well at Anchor with
+the owner's wife carrying on with his brother who
+anyway has a Mexican moll in town.","synopsis":"A
+Union ex-officer plans to sell up to Anchor Ranch and
+move east with his fiancee, but the low price offered
+by Anchor's crippled owner and the outfit's bully-boy
+tactics make him think again. When one of his hands
+is murdered he decides to stay and fight, utilising
+his war experience. Not all is well at Anchor with
+the owner's wife carrying on with his brother who
+anyway has a Mexican moll in
+town.","yt_trailer_code":"i76CyKNdfU8","language":"En
+glish","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/the_violent_men_1955\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/the_violent_men_1955\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_violent_men_1955\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_violent_men_1955\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_violent_men_1955\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/85AD1F2D315B631CB0C26AC58151141B8CF6D7C2","hash":"85A
+D1F2D315B631CB0C26AC58151141B8CF6D7C2","quality":"720
+p","type":"bluray","seeds":92,"peers":27,"size":"831.
+98 MB","size_bytes":872394260,"date_uploaded":"2019-02-14 10:09:40","date_uploaded_unix":1550135380},
+{"url":"https:\/\/yts.am\/torrent\/download\/F968D62A9E848CBB34A8BCD5372668AEBEBDC132","hash":"F96
+8D62A9E848CBB34A8BCD5372668AEBEBDC132","quality":"108
+0p","type":"bluray","seeds":104,"peers":33,"size":"1.
+55 GB","size_bytes":1664299827,"date_uploaded":"2019-02-14
+11:34:55","date_uploaded_unix":1550140495}],"date_upl
+oaded":"2019-02-14
+10:09:40","date_uploaded_unix":1550135380},
+{"id":10896,"url":"https:\/\/yts.am\/movie\/the-arrival-1996","imdb_code":"tt0115571","title":"The
+Arrival","title_english":"The
+Arrival","title_long":"The Arrival
+(1996)","slug":"the-arrival-1996","year":1996,"rating":6.3,"runtime":115,"genres"
+:["Sci-Fi","Thriller"],"summary":"Zane (Charlie
+Sheen), a young, mild-mannered astronomer discovers
+an extraterrestrial radio signal. After being fired
+from his organization for reporting this to his
+superior, he takes a chance on discovering the truth:
+that his workplace is not quite what it seems to be
+and a sinister conspiracy is at work. The aliens are
+keeping a deadly secret, and will stop at nothing to
+prevent Zane from learning
+it.","description_full":"Zane (Charlie Sheen), a
+young, mild-mannered astronomer discovers an
+extraterrestrial radio signal. After being fired from
+his organization for reporting this to his superior,
+he takes a chance on discovering the truth: that his
+workplace is not quite what it seems to be and a
+sinister conspiracy is at work. The aliens are
+keeping a deadly secret, and will stop at nothing to
+prevent Zane from learning it.","synopsis":"Zane
+(Charlie Sheen), a young, mild-mannered astronomer
+discovers an extraterrestrial radio signal. After
+being fired from his organization for reporting this
+to his superior, he takes a chance on discovering the
+truth: that his workplace is not quite what it seems
+to be and a sinister conspiracy is at work. The
+aliens are keeping a deadly secret, and will stop at
+nothing to prevent Zane from learning
+it.","yt_trailer_code":"GOc01_Ty1eQ","language":"Engl
+ish","mpa_rating":"PG-13","background_image":"https:\/\/yts.am\/assets\/images\/movies\/the_arrival_1996\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/the_arrival_1996\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_arrival_1996\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_arrival_1996\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/the_arrival_1996\/large-cover.jpg","state":"ok","torrents":
+[{"url":"https:\/\/yts.am\/torrent\/download\/15E61D87586ED48C23D047A8E58B8E3CAE4B0AA8","hash":"15E
+61D87586ED48C23D047A8E58B8E3CAE4B0AA8","quality":"720
+p","type":"bluray","seeds":326,"peers":171,"size":"98
+1.02
+MB","size_bytes":1028674028,"date_uploaded":"2019-02-14 06:54:46","date_uploaded_unix":1550123686},
+{"url":"https:\/\/yts.am\/torrent\/download\/DA63967B25C42E06637C0A3081970B87DCA6FC4A","hash":"DA6
+3967B25C42E06637C0A3081970B87DCA6FC4A","quality":"108
+0p","type":"bluray","seeds":399,"peers":141,"size":"1
+.84
+GB","size_bytes":1975684956,"date_uploaded":"2019-02-14
+09:23:06","date_uploaded_unix":1550132586}],"date_upl
+oaded":"2019-02-14
+06:54:46","date_uploaded_unix":1550123686},
+{"id":10895,"url":"https:\/\/yts.am\/movie\/zindagi-na-milegi-dobara-2011","imdb_code":"tt1562872","title":"Zindagi Na
+Milegi Dobara","title_english":"Zindagi Na Milegi
+Dobara","title_long":"Zindagi Na Milegi Dobara
+(2011)","slug":"zindagi-na-milegi-dobara-2011","year":2011,"rating":8.1,"runtime":155,"genres"
+:["Comedy","Drama"],"summary":"Three friends decide
+to turn their fantasy vacation into reality after one
+of their number becomes
+engaged.","description_full":"Three friends decide to
+turn their fantasy vacation into reality after one of
+their number becomes engaged.","synopsis":"Three
+friends decide to turn their fantasy vacation into
+reality after one of their number becomes
+engaged.","yt_trailer_code":"FJrpcDgC3zU","language":
+"English","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/zindagi_na_milegi_dobara_2011\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/zindagi_na_milegi_dobara_2011\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/zindagi_na_milegi_dobara_2011\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/zindagi_na_milegi_dobara_2011\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/zindagi_na_milegi_dobara_2011\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/F5EA8CD58C4C0B72A1B381C0F0AB7BF2199AFBC3","hash":"F5E
+A8CD58C4C0B72A1B381C0F0AB7BF2199AFBC3","quality":"720
+p","type":"bluray","seeds":190,"peers":84,"size":"1.3
+GB","size_bytes":1395864371,"date_uploaded":"2019-02-14 03:09:32","date_uploaded_unix":1550110172},
+{"url":"https:\/\/yts.am\/torrent\/download\/A51DB4C0FE13180E0EC3A17C07F0D6EA88A67914","hash":"A51
+DB4C0FE13180E0EC3A17C07F0D6EA88A67914","quality":"108
+0p","type":"bluray","seeds":183,"peers":80,"size":"2.
+48 GB","size_bytes":2662879724,"date_uploaded":"2019-02-14
+05:36:08","date_uploaded_unix":1550118968}],"date_upl
+oaded":"2019-02-14
+03:09:32","date_uploaded_unix":1550110172},
+{"id":10894,"url":"https:\/\/yts.am\/movie\/factory-complex-2015","imdb_code":"tt4584800","title":"Factory
+Complex","title_english":"Factory
+Complex","title_long":"Factory Complex
+(2015)","slug":"factory-complex-2015","year":2015,"rating":6.1,"runtime":81,"genres":
+["Documentary","History"],"summary":"The drastic
+economic development in South Korea once surprised
+the rest of the world. However, behind of it was an
+oppression the marginalized female laborers had to
+endure. The film invites us to the lives of the
+working class women engaged in the textile industry
+of the 1960s, all the way through the stories of
+flight attendants, cashiers, and non-regular workers
+of today. As we encounter the vista of female factory
+workers in Cambodia that poignantly resembles the
+labor history of Korea, the form of labor changes its
+appearance but the essence of the bread-and-butter
+question remains still.","description_full":"The
+drastic economic development in South Korea once
+surprised the rest of the world. However, behind of
+it was an oppression the marginalized female laborers
+had to endure. The film invites us to the lives of
+the working class women engaged in the textile
+industry of the 1960s, all the way through the
+stories of flight attendants, cashiers, and non-regular workers of today. As we encounter the vista
+of female factory workers in Cambodia that poignantly
+resembles the labor history of Korea, the form of
+labor changes its appearance but the essence of the
+bread-and-butter question remains
+still.","synopsis":"The drastic economic development
+in South Korea once surprised the rest of the world.
+However, behind of it was an oppression the
+marginalized female laborers had to endure. The film
+invites us to the lives of the working class women
+engaged in the textile industry of the 1960s, all the
+way through the stories of flight attendants,
+cashiers, and non-regular workers of today. As we
+encounter the vista of female factory workers in
+Cambodia that poignantly resembles the labor history
+of Korea, the form of labor changes its appearance
+but the essence of the bread-and-butter question
+remains
+still.","yt_trailer_code":"g_vGsqzYPHU","language":"E
+nglish","mpa_rating":"","background_image":"https:\/\/yts.am\/assets\/images\/movies\/factory_complex_2015\/background.jpg","background_image_original":"https:\/\/yts.am\/assets\/images\/movies\/factory_complex_2015\/background.jpg","small_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/factory_complex_2015\/small-cover.jpg","medium_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/factory_complex_2015\/medium-cover.jpg","large_cover_image":"https:\/\/yts.am\/assets\/images\/movies\/factory_complex_2015\/large-cover.jpg","state":"ok","torrents":[{"url":"https:\/\/yts.am\/torrent\/download\/A9F072D06F45E68D4D6D59CFD39677596BAC4EF7","hash":"A9F
+072D06F45E68D4D6D59CFD39677596BAC4EF7","quality":"720
+p","type":"bluray","seeds":61,"peers":19,"size":"795.
+94 MB","size_bytes":834603581,"date_uploaded":"2019-02-14 00:36:33","date_uploaded_unix":1550100993},
+{"url":"https:\/\/yts.am\/torrent\/download\/666A0D061523F47A51ABC9A8399E864FB896CD85","hash":"666
+A0D061523F47A51ABC9A8399E864FB896CD85","quality":"108
+0p","type":"bluray","seeds":69,"peers":29,"size":"1.5
+1 GB","size_bytes":1621350154,"date_uploaded":"2019-02-14
+01:53:51","date_uploaded_unix":1550105631}],"date_upl
+oaded":"2019-02-14
+00:36:33","date_uploaded_unix":1550100993}]},"@meta":
+{"server_time":1550293113,"server_timezone":"CET","ap
+i_version":2,"execution_time":"0.01 ms"}}
